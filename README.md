@@ -10,5 +10,5 @@ My approach was to construct features based on MBD lags and moving averages. A "
 
 I Included as well the mean and standard deviation for MBD along each USA state. Moreover, I applied linear regression county-wise and used the resulting predictions and slopes as an additional input.
 
-The final predictions were computed with CatBoost over the previously mentioned preprocessing and feature engineering. With this. I reached a SMAPE of 7,95%, i.e. on average, the forecasts were within 7,95% of the actual values.
+The final predictions were computed with CatBoost over the previously mentioned preprocessing and feature engineering. With this, I reached a SMAPE of 7,95%, i.e. on average, the forecasts were within 7,95% of the actual values.
 
